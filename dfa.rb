@@ -1,4 +1,5 @@
 # dfa.rb : finite state machine in Ruby
+require_relative 'table'
 
 i=ARGV[0]
 s=0
