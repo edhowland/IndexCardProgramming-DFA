@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# run node in Docker container
+src="/work/${1}"; shift
+docker run --rm -v ${PWD}:/work node $src $@
