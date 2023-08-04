@@ -8,13 +8,21 @@ This exercise was composed for BarCampGR held on Aug. 12th, 2023 and presented b
 me (Ed Howland). The participants were asked to write an implementation of a DFA
 to be the runtime for a DIY RegExp engine on 3X5 sized index cards. Alternatively,
 they can use a simple note taker app on their laptops, tablets or phones. No IDEs or code editors
-were encouraged.
+were explicitly not encouraged.
 
 The inspiration for using this learning technique came from this video:
 
 [William Byrd on The Most Beutiful Program ever written](https://www.youtube.com/watch?v=OyfBQmvr2Hc))
 
 This talk was given at the Papers We Love in NYC on April 12th,  2017
+Dr. Byrd says in this video that his mentor Dan Freidman (author of the Little Lisper)
+said that if you can't express your idea on a 3X5 index card, then you are doing it wrong.
+Specifically, the talk is about Lisp written in Lisp itself.
+Alan Kay (of Smalltalk/OOP fame) compared the page 13 of the Lisp Programmer's 1.5
+Manual to that of James Clark Maxwell's equations for electrom-magnetism.
+The equations of Computer Science.
+
+[McCarthy et al. LISP 1.5 Programmer's Manual Software Preservation Group](https://www.softwarepreservation.org/projects/LISP/book/LISP 1.5 Programmers Manual.pdf/view contents selected Search with Google or enter address edit text](https://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf/view)
 
 ### Dr. William Byrd's  professional web page
 
