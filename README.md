@@ -1,8 +1,6 @@
 # Determistic Finite Automoton
 
-## Abstract
-
-### Purpose
+## Purpose
 
 This exercise was composed for BarCampGR held on Aug. 12th, 2023 and presented by
 me (Ed Howland). The participants were asked to write an implementation of a DFA
