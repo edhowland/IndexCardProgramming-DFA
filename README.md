@@ -70,7 +70,7 @@ Contains 2 functions:
 There is some boilerplate code at the top of every dfa.{ext} unique to every language
 that does possibly 2 things:
 
-- Loads 'table.{ext}' in the same dir.
+- Loads 'table.{ext}' in the same directory.
 - Boilerplate to read command line args for the input string to check if in the regex.
 
 
